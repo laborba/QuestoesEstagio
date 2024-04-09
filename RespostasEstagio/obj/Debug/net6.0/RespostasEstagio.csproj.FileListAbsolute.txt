@@ -1,0 +1,15 @@
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\bin\Debug\net6.0\RespostasEstagio.exe
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\bin\Debug\net6.0\RespostasEstagio.deps.json
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\bin\Debug\net6.0\RespostasEstagio.runtimeconfig.json
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\bin\Debug\net6.0\RespostasEstagio.dll
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\bin\Debug\net6.0\RespostasEstagio.pdb
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.csproj.AssemblyReference.cache
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.AssemblyInfoInputs.cache
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.AssemblyInfo.cs
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.csproj.CoreCompileInputs.cache
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.dll
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\refint\RespostasEstagio.dll
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.pdb
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\RespostasEstagio.genruntimeconfig.cache
+C:\temp\Respostas Estagio\RespostasEstagio\RespostasEstagio\obj\Debug\net6.0\ref\RespostasEstagio.dll
